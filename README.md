@@ -5,4 +5,4 @@ Current status:
   Literally nothing.
 
 Important Note:
-  I don't know what I'm doing. This is for practice and skill building only.
+  I don't know what I'm doing. This will be for practice and skill building only.
